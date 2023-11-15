@@ -47,5 +47,5 @@ const node2 = new TreeNode(8, node4, node5);
 
 const rootTree = new TreeNode(4, node2, node3)
 
-const res = averageOfSubtree(rootTree);
-console.log(res);
+const averageOfSubtreeRes = averageOfSubtree(rootTree);
+console.log(averageOfSubtreeRes);
