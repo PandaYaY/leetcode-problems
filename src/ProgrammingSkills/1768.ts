@@ -39,5 +39,5 @@ function mergeAlternately(word1: string, word2: string): string {
 
 const word1 = "abc";
 const word2 = "pqrpfrfs";
-const res = mergeAlternately(word1, word2);
-console.log(res);
+const mergeAlternatelyRes = mergeAlternately(word1, word2);
+console.log(mergeAlternatelyRes);
